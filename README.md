@@ -1,5 +1,14 @@
 <h1>Final project - DAVE3605, Efficient C/C++ Coding Techniques </h1>
+<br>
+Spring 2019.
+Subject link:
+
+
+https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3605/2018/H%C3%98ST
+<br>
 Feel free to read the full documentation in the attached pdf file.
+No other collaborators to this project.
+
 
 
 
@@ -25,3 +34,6 @@ trick:
 <b>Cygwin reference:</b>
 Cygwin (n.d) This is the home of Cygwin project. Retrieved April 8, 2019 from
 https://www.cygwin.com/
+
+
+<h1> Assignment text </h1>
