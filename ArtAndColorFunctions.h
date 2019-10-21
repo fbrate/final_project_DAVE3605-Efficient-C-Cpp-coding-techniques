@@ -6,7 +6,7 @@
 #define TICTACTOE_GROUP17_FINAL_PROJECT_ARTANDCOLORFUNCTIONS_H
 
 
-#include "Player_Frithjof_Brate_s336406.h"
+#include "Player.h"
 
 void colorChecker();
 void avatarSelection(Player &);

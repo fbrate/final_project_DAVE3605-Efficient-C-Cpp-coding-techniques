@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
-#include "Board_Frithjof_Brate_s336406.h"
-#include "globals_Frithjof_Brate_s336406.h"
-#include "ArtAndColorFunctions_Frithjof_Brate_s336406.h"
+#include "Board.h"
+#include "globals.h"
+#include "ArtAndColorFunctions.h"
 #include <chrono>
 #include <thread>
 

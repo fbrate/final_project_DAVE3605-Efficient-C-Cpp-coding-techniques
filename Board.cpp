@@ -2,8 +2,8 @@
 // Created by fbrate on 30/03/19.
 //
 
-#include "Board_Frithjof_Brate_s336406.h"
-#include "globals_Frithjof_Brate_s336406.h"
+#include "Board.h"
+#include "globals.h"
 #include <string>
 #include <vector>
 #include <iostream>

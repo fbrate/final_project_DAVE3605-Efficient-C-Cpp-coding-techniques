@@ -6,8 +6,8 @@
 #define TICTACTOE_GROUP17_FINAL_PROJECT_BOARD_H
 
 #include <string>
-#include "globals_Frithjof_Brate_s336406.h"
-#include "Player_Frithjof_Brate_s336406.h"
+#include "globals.h"
+#include "Player.h"
 
 class Board {
 private:

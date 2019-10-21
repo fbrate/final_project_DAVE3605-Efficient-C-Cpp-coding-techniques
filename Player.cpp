@@ -2,10 +2,10 @@
 // Created by fbrate on 01/04/19.
 //
 
-#include "Player_Frithjof_Brate_s336406.h"
+#include "Player.h"
 #include <string>
 #include <iostream>
-#include "globals_Frithjof_Brate_s336406.h"
+#include "globals.h"
 //public
 using std::string;
 Player::Player(string name) {

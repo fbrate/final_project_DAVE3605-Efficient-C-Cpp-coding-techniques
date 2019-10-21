@@ -1,5 +1,5 @@
 
-#include "globals_Frithjof_Brate_s336406.h"
+#include "globals.h"
 #include <iostream>
 
 bool colors;

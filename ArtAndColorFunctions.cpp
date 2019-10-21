@@ -2,8 +2,8 @@
 // Created by fbrate on 05/04/19.
 //
 
-#include "ArtAndColorFunctions_Frithjof_Brate_s336406.h"
-#include "globals_Frithjof_Brate_s336406.h"
+#include "ArtAndColorFunctions.h"
+#include "globals.h"
 #include <vector>
 #include <iostream>
 
