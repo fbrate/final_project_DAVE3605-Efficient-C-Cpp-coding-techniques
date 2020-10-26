@@ -15,6 +15,8 @@ No other collaborators to this project.
 
 <h2>Tic Tac Toe game in terminal. Written in C++.</h2>
 
+![ticTacToe](https://user-images.githubusercontent.com/26270530/97149264-cdb48a00-176c-11eb-9dbc-690fbe7aedf4.png)
+
 This game was developed in Debian 9 “Jessie”. And is compiled using the GNU C++ compiler:
 g++. It is tested in Windows and Linux environments. It has not been tested on an <i>OS X</i> system but since it is based on UNIX it will most likely run there as well.
 
